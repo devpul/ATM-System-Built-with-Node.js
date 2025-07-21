@@ -62,6 +62,7 @@ npm install fs
 - Detail about your account
 
 a. Account Details (Normal)
+
 <img width="384" height="96" alt="image" src="https://github.com/user-attachments/assets/43e3fedc-1829-4110-a05c-9abf91a41bbd" />
 
 b. Account Details (without **login**)
