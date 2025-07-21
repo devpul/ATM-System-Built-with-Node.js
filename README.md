@@ -28,6 +28,8 @@ npm install commander mysql2
 npm install fs
 ```
 
+---
+
 ## 🗂️ Tech Stack
 
 - **Node.js**  
@@ -58,6 +60,9 @@ npm install fs
 <img width="446" height="69" alt="image" src="https://github.com/user-attachments/assets/75363df0-4d9c-48ce-bb8a-9c93a932e7a9" />
 
 - Detail about your account
+1. Detail
+<img width="384" height="96" alt="image" src="https://github.com/user-attachments/assets/43e3fedc-1829-4110-a05c-9abf91a41bbd" />
+2. blm
 <img width="384" height="96" alt="image" src="https://github.com/user-attachments/assets/43e3fedc-1829-4110-a05c-9abf91a41bbd" />
 
 - Detail about your account
