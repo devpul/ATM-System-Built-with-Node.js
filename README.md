@@ -49,5 +49,5 @@ It supports **register**, **login**, **check account**, **check balance**, **dep
 
 ## 👤 Author
 
-- [Ibnu Bachdar](www.linkedin.com/in/muhammad-ibnu-hasyim-asshidiq-bachdar-386318312)
+- [Muhammad Ibnu Hasyim Asshidiq Bachdar](https://www.linkedin.com/in/muhammad-ibnu-hasyim-asshidiq-bachdar-386318312)
 
