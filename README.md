@@ -60,14 +60,19 @@ npm install fs
 <img width="446" height="69" alt="image" src="https://github.com/user-attachments/assets/75363df0-4d9c-48ce-bb8a-9c93a932e7a9" />
 
 - Detail about your account
-1. Detail
+a. Account Details (Normal)
 <img width="384" height="96" alt="image" src="https://github.com/user-attachments/assets/43e3fedc-1829-4110-a05c-9abf91a41bbd" />
 
-2. blm
-<img width="384" height="96" alt="image" src="https://github.com/user-attachments/assets/43e3fedc-1829-4110-a05c-9abf91a41bbd" />
+b. Account Details (without **login**)
+<img width="383" height="33" alt="image" src="https://github.com/user-attachments/assets/093ddf73-e9f8-446a-9844-d181f9d4ae07" />
 
-3. blm
-<img width="384" height="96" alt="image" src="https://github.com/user-attachments/assets/43e3fedc-1829-4110-a05c-9abf91a41bbd" />
+- Deposit money to your account
+a. Deposit (Normal)
+
+
+b. Deposit (without **login**)
+<img width="331" height="33" alt="image" src="https://github.com/user-attachments/assets/420d1325-ca52-4d4d-b9bf-2e6875ca27fe" />
+
 
 ---
 
