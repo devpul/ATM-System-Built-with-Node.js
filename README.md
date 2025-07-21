@@ -1,4 +1,4 @@
-# ATM-System-Built-with-Node.js and MySQL
+# ATM-System-Built-with-Node.js
 
 This is a simple **Banking System** built with **Node.js** and **MySQL Workbench**.  
 It supports **register**, **login**, **check account**, **check balance**, **deposit**, **withdraw**, **transfer** and **logout** functionalities.
@@ -16,6 +16,17 @@ It supports **register**, **login**, **check account**, **check balance**, **dep
 - ✅ Save transfer histories in `riwayat_transaksi.json`
 
 ---
+
+## 🛠️ Installation
+
+To install the necessary dependencies for this project, run the following command:
+```
+npm install
+npm init -y
+npm install prompt-sync
+npm install commander mysql2
+npm install fs
+```
 
 ## 🗂️ Tech Stack
 
@@ -39,11 +50,15 @@ It supports **register**, **login**, **check account**, **check balance**, **dep
 - node index.js logout
 
 ## 📸 Screenshots
+
 - Register a new account
 <img width="336" height="83" alt="image" src="https://github.com/user-attachments/assets/1c922781-535e-4f74-8b73-64815cc820b7" />
 
 - Login to your account
 <img width="446" height="69" alt="image" src="https://github.com/user-attachments/assets/75363df0-4d9c-48ce-bb8a-9c93a932e7a9" />
+
+- Detail about your account
+<img width="384" height="96" alt="image" src="https://github.com/user-attachments/assets/43e3fedc-1829-4110-a05c-9abf91a41bbd" />
 
 - Detail about your account
 
