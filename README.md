@@ -1,4 +1,4 @@
-# ATM-System-Built-with-Node.js
+<img width="335" height="85" alt="image" src="https://github.com/user-attachments/assets/d59e4e5d-fabc-4960-ad49-a4b3ecc71699" /># ATM-System-Built-with-Node.js
 
 This is a simple **Banking System** built with **Node.js** and **MySQL Workbench**.  
 It supports **register**, **login**, **check account**, **check balance**, **deposit**, **withdraw**, **transfer** and **logout** functionalities.
@@ -39,8 +39,11 @@ It supports **register**, **login**, **check account**, **check balance**, **dep
 - node index.js transfer
 
 ## 📸 Screenshoots
+- Register a new account
+<img width="336" height="83" alt="image" src="https://github.com/user-attachments/assets/1c922781-535e-4f74-8b73-64815cc820b7" />
 
-<img width="383" height="140" alt="image" src="https://github.com/user-attachments/assets/2fc91356-fc0f-4478-b31f-ddd413cf407c" />
+- Login to your account
+<img width="446" height="69" alt="image" src="https://github.com/user-attachments/assets/75363df0-4d9c-48ce-bb8a-9c93a932e7a9" />
 
 ---
 
