@@ -1,7 +1,7 @@
-# ATM-System-Built-with-Node.js
+# ATM-System-Built-with-Node.js and MySQL
 
 This is a simple **Banking System** built with **Node.js** and **MySQL Workbench**.  
-It supports **register**, **login**, **check account**, **check balance**, **deposit**, **withdraw**, **transfer** and **logout** functionalities.
+It supports **register**, **login**, **check account**, **deposit**, **withdraw**, **transfer**, **check balance** and **logout** functionalities.
 
 ---
 
