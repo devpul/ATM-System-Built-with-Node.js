@@ -73,6 +73,8 @@ npm install fs
 
 <img width="383" height="33" alt="image" src="https://github.com/user-attachments/assets/093ddf73-e9f8-446a-9844-d181f9d4ae07" />
 
+___
+
 - ### Deposit money to your account
 
 #### a. Deposit (Normal)
@@ -86,6 +88,8 @@ npm install fs
 #### c. Deposit (if less than 1000 Rupiah)
 
 <img width="326" height="68" alt="image" src="https://github.com/user-attachments/assets/503af2b0-6a2c-4c3c-b747-3d2487857d61" />
+
+___
 
 - ### Withdraw your money
 
@@ -104,6 +108,8 @@ npm install fs
 #### d. Withdraw (if less than 1000 rupiah)
 
 <img width="343" height="66" alt="image" src="https://github.com/user-attachments/assets/412c9aec-656a-4fc2-a372-bf103ed35848" />
+
+___
 
 - ### Transfer money to another user
 
