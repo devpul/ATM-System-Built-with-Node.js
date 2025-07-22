@@ -77,8 +77,9 @@ CREATE TABLE accounts (
 ## 📸 Screenshots
 
 - ### Register a new account
+```
 <img width="336" height="83" alt="image" src="https://github.com/user-attachments/assets/1c922781-535e-4f74-8b73-64815cc820b7" />
-
+```
 ---
 
 - ### Login to your account
