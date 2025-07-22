@@ -56,8 +56,12 @@ npm install fs
 - ### Register a new account
 <img width="336" height="83" alt="image" src="https://github.com/user-attachments/assets/1c922781-535e-4f74-8b73-64815cc820b7" />
 
+***
+
 - ### Login to your account
 <img width="446" height="69" alt="image" src="https://github.com/user-attachments/assets/75363df0-4d9c-48ce-bb8a-9c93a932e7a9" />
+
+***
 
 - ### Detail about your account
 
