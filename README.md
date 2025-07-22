@@ -56,12 +56,12 @@ npm install fs
 - ### Register a new account
 <img width="336" height="83" alt="image" src="https://github.com/user-attachments/assets/1c922781-535e-4f74-8b73-64815cc820b7" />
 
-***
+---
 
 - ### Login to your account
 <img width="446" height="69" alt="image" src="https://github.com/user-attachments/assets/75363df0-4d9c-48ce-bb8a-9c93a932e7a9" />
 
-***
+---
 
 - ### Detail about your account
 
@@ -73,7 +73,7 @@ npm install fs
 
 <img width="383" height="33" alt="image" src="https://github.com/user-attachments/assets/093ddf73-e9f8-446a-9844-d181f9d4ae07" />
 
-___
+---
 
 - ### Deposit money to your account
 
@@ -89,7 +89,7 @@ ___
 
 <img width="326" height="68" alt="image" src="https://github.com/user-attachments/assets/503af2b0-6a2c-4c3c-b747-3d2487857d61" />
 
-___
+---
 
 - ### Withdraw your money
 
@@ -109,7 +109,7 @@ ___
 
 <img width="343" height="66" alt="image" src="https://github.com/user-attachments/assets/412c9aec-656a-4fc2-a372-bf103ed35848" />
 
-___
+---
 
 - ### Transfer money to another user
 
@@ -129,13 +129,20 @@ ___
 
 <img width="381" height="64" alt="image" src="https://github.com/user-attachments/assets/320fa88e-8596-4dc5-823b-e7f2e5578cb5" />
 
+---
+
 - ### Check your current balance
 
 <img width="379" height="54" alt="image" src="https://github.com/user-attachments/assets/5062995e-582d-4262-b8d6-0f51f0129732" />
 
 ---
 
+- ### Logout from your account
+
+<img width="319" height="36" alt="image" src="https://github.com/user-attachments/assets/760d1e2b-04f1-42e6-be2a-912997b8bdf5" />
+
+---
+
 ## 👤 Author
 
 - [Muhammad Ibnu Hasyim Asshidiq Bachdar](https://www.linkedin.com/in/muhammad-ibnu-hasyim-asshidiq-bachdar-386318312)
-
