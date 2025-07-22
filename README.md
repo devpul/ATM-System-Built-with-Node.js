@@ -28,6 +28,29 @@ npm install commander mysql2
 npm install fs
 ```
 
+## 📚 Database
+
+```
+CREATE TABLE transactions(
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    account_id INT,
+    FOREIGN KEY(account_id) REFERENCES accounts(id),
+   `type` ENUM('deposit', 'withdraw', 'transfer_in','transfer_out'),
+    amount DECIMAL(15,2) DEFAULT 0.00,
+    target_id INT NULL,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+TABEL ACCOUNTS
+CREATE TABLE accounts (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    `name` VARCHAR(30) NOT NULL,
+    pin VARCHAR(6) NOT NULL,
+    balance DECIMAL(15,2) DEFAULT 0.00,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+```
+
 ---
 
 ## 🗂️ Tech Stack
