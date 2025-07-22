@@ -1,4 +1,5 @@
 const prompt = require('prompt-sync')();
+const { log } = require('console');
 const db = require('../db');
 
 
@@ -43,11 +44,15 @@ exports.login = async() => {
     console.log("Akun belum terdaftar !");
     return;
   }
+
+
   // assign 
   let currentUser = null;
+
   // data rows
   currentUser = rows[0];
-  // simpan
+
+  // simpan ke session.json
   fs.writeFileSync('session.json', JSON.stringify(currentUser, null, 2));
   
   console.log(`Halo ${currentUser.name} 👋 Selamat Datang  di aplikasi myATM.`);
@@ -128,7 +133,33 @@ exports.deposit = async() => {
   const [toTransactions] = await db.query (
     'INSERT INTO transactions (account_id, amount, type) VALUES (?, ?, ?)',
     [user.id, depoInput, type]
+  ) 
+
+  // ambil semua data dari TABLE TRANSACTIONS berdasarkan id
+  const [fromTransactions] = await db.query (
+    'SELECT * FROM transactions WHERE account_id = ?',
+    [user.id]
   )
+
+  logs = [];
+
+  try{
+    // tipe : string
+    const isiFile = fs.readFileSync('riwayat_transaksi.json');
+    // ubah string di isiFile jadi objek
+    // tipe : objek
+    logs = JSON.parse(isiFile);
+  }catch(err){
+    logs = [];
+  }
+
+  // tipe : objek
+  // push ke logs
+  logs.push(fromTransactions);
+
+  // catat
+  fs.writeFileSync('riwayat_transaksi.json', JSON.stringify(logs, null, 2));
+
 
   if(!toAccounts){
     console.log("Gagal DEPO");
@@ -408,6 +439,7 @@ exports.logout = async() => {
 
   // hapus file
   fs.unlinkSync('session.json');
+  fs.unlinkSync('riwayat_transaksi.json');
 
   console.log("Kamu berhasil logout!");
 }
