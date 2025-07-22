@@ -59,7 +59,7 @@ npm install fs
 - ## Login to your account
 <img width="446" height="69" alt="image" src="https://github.com/user-attachments/assets/75363df0-4d9c-48ce-bb8a-9c93a932e7a9" />
 
-- Detail about your account
+- ## Detail about your account
 
 a. Account Details (Normal)
 
@@ -83,7 +83,7 @@ c. Deposit (if less than 1000 Rupiah)
 
 <img width="326" height="68" alt="image" src="https://github.com/user-attachments/assets/503af2b0-6a2c-4c3c-b747-3d2487857d61" />
 
-- Withdraw your money
+- ## Withdraw your money
 
 a. Withdraw (Normal)
 
@@ -101,7 +101,7 @@ d. Withdraw (if less than 1000 rupiah)
 
 <img width="343" height="66" alt="image" src="https://github.com/user-attachments/assets/412c9aec-656a-4fc2-a372-bf103ed35848" />
 
-- Transfer money to another user
+- ## Transfer money to another user
 
 a. Transfer (Normal)
 
@@ -119,7 +119,7 @@ d. Transfer (if greater than sender's current balance)
 
 <img width="381" height="64" alt="image" src="https://github.com/user-attachments/assets/320fa88e-8596-4dc5-823b-e7f2e5578cb5" />
 
-- Check your current balance
+- ## Check your current balance
 
 <img width="379" height="54" alt="image" src="https://github.com/user-attachments/assets/5062995e-582d-4262-b8d6-0f51f0129732" />
 
